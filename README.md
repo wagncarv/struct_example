@@ -43,6 +43,9 @@
 
 **TODO: Add description**
 
+## DEscription
+Example of how to use `struct`in Elixir programming language.
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
