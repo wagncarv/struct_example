@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src=".github/Rocket_Q.png" width="100%">
+  <!-- <img alt="Rocket.Q" src=".github/Rocket_Q.png" width="100%"> -->
 </p>
 
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
