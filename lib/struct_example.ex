@@ -1,18 +1,14 @@
-defmodule StructExample do
-  @moduledoc """
-  Documentation for `StructExample`.
-  """
+defmodule Gamex.Game do
+  @keys [:title, :publisher, :release_date]
+  
+  @enforce_keys @keys
+  defstruct @keys
 
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> StructExample.hello()
-      :world
-
-  """
-  def hello do
-    :world
+  def build(title, publisher, release_date) do
+    %__MODULE__{
+      title: title,
+      publisher: publisher,
+      release_date: release_date
+    }
   end
 end
