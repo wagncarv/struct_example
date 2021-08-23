@@ -1,4 +1,6 @@
-# StructExample
+# Struct
+====
+
 
 <h1 align="center">
   <img alt="Elixir" title="Elixir" src="elixir.svg" width="220px" />
@@ -41,7 +43,6 @@
   <!-- <img alt="Rocket.Q" src=".github/Rocket_Q.png" width="100%"> -->
 </p>
 
-**TODO: Add description**
 
 ## Description
 Example of how to use `struct`in Elixir programming language.
