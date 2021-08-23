@@ -43,7 +43,7 @@
 
 **TODO: Add description**
 
-## DEscription
+## Description
 Example of how to use `struct`in Elixir programming language.
 
 ## Installation
