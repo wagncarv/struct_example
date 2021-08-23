@@ -1,6 +1,4 @@
 # Struct
-====
-
 
 <h1 align="center">
   <img alt="Elixir" title="Elixir" src="elixir.svg" width="220px" />
