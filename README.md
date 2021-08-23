@@ -1,7 +1,7 @@
 # StructExample
 
 <h1 align="center">
-  <img alt="Elixir" title="Elixir" src=".github/elixir.svg" width="220px" />
+  <img alt="Elixir" title="Elixir" src="elixir.svg" width="220px" />
 </h1>
 
 <p align="center">
